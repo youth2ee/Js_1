@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>event_4</title>
 <script type="text/javascript">
 function go() {
 	var txt = document.getElementById("t").value;

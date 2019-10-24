@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>event_6</title>
 <style type="text/css">
 #f1 {
 	display: none;
